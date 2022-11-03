@@ -4,7 +4,7 @@
 <!-- SOBRE -->
 <h2> 🛍️ Sobre</h2>
 <p align="justify"> Projeto de backend desenvolvido conforme proposta da Labenu para criação de uma API para um e-commerce.</p>
-<p align="justify"> Por se tratar de um projeto intermediário do curso, foi feito sem implementação de uma arquitetura bem definida.</p>
+<p align="justify"> Por se tratar de um projeto intermediário do curso, <u> foi feito sem implementação de uma arquitetura bem definida <u> .</p>
 <p align="justify"> Nesse projeto foi utilizado o Heroku como plataforma da API. Os dados acessados e modificados por essa API estão em um Banco de dados MySQL.</p>
     <br>
 
